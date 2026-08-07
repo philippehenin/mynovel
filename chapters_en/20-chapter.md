@@ -1,13 +1,17 @@
 # Chapter 20: The Amber Gates
 
-The steam blast triggered a rockfall between the fugitives and Thorne's men, blocking the ridge trail for good. Lira and Kaelen sprinted the last few yards onto the monumental plaza of the Cloud Citadel.
+The steam grenade explosion sent a wave of hot air surging forth that triggered the immediate collapse of a colossal section of rock between the fugitives and Thorne's men. Tons of stone and snow slid into the abyss, blocking the ridge trail for good and isolating the ledge.
 
-Before them stood the Amber Gates: two massive doors carved from synthetic amber and bronze, sixty feet tall and inlaid with intricate geometric circuits.
+Lira and Kaelen sprinted the last few yards of the defile and emerged onto the monumental plaza of the Cloud Citadel.
 
-At the center of the doors sat the Codex receiver. Lira pulled the book from its case and slotted it into the central opening.
+The snowstorm abruptly lulled, as if halted by an invisible barrier. Before them, bathed in supernatural golden light, stood the majestic Amber Gates: two colossal doors carved from synthetic amber and Precursor bronze, eighty feet tall and inlaid with breathtaking geometric circuits.
 
-The Amber Gate circuits lit up in a blinding gold flash. A click of thousands of internal locks echoed across the mountains, shaking the ground beneath their boots.
+At the exact center of the doors sat the Codex's master receiver slot.
 
-« The system recognizes Aldous Vance's signature », Lira whispered as the Council seals snapped one after another.
+Lira unlatched her waterproof bag, pulled out the *Aethelgard Codex*, and slotted it into the central opening with the devotion and precision of a priestess of memory.
 
-The colossal doors swung slowly inward, revealing the grand interior of the Observatory Dome. The final showdown for Aethelgard's memory was about to take place beneath the crystal vault.
+The effect was instantaneous. Thousands of circuits printed inside the amber doors lit up with a blinding gold brilliance that cut through the peak mist. A majestic click of thousands of internal locks echoed across the mountains, shaking the granite beneath their boots.
+
+« The system recognizes Aldous Vance's signature », Lira whispered as the Order of Silence's black iron seals snapped and crumbled to dust one after another.
+
+The colossal eighty-foot doors swung slowly inward without emitting a single squeak, revealing the dazzling interior of the Cloud Observatory. The final battle for Aethelgard's memory was about to take place beneath the immense vault of rock crystal.

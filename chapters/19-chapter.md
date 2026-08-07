@@ -1,13 +1,19 @@
 # Chapitre 19 : L'Ascension des Monts de Grès
 
-Le vent des hauteurs soufflait avec une violence inouïe sur la crête des Monts de Grès, balayant le sentier étroit accroché à la paroi rocheuse. Lira et Kaelen s'avançaient à tâtons dans le brouillard glacé, reliés par une solide corde de chanvre.
+Le vent glacial des crêtes soufflait avec une violence inouïe sur le versant nord des Monts de Grès, balayant le sentier étroit accroché à la falaise verticale. Lira et Kaelen s'avançaient pas à pas dans un brouillard givrant d'une densité étouffante, reliés l'un à l'autre par une solide corde de chanvre goudronné et cramponnés à la roche.
 
-Chaque pas exigeait une concentration totale : en dessous d'eux, un gouffre de cinq cents mètres plongeait vers les forêts du Val d'Ombre. Mais le Codex d'Aethelgard guidait chacun de leurs mouvements grâce aux balises vibratoires incrustées dans la roche tous les cent mètres.
+Chaque avancée exigeait une concentration absolue : en dessous de leurs bottes trempées, un gouffre de plus de six cents mètres plongeait verticalement vers la mer de sapins du Val d'Ombre.
 
-« Tenez bon ! »aria Kaelen au milieu du mugissement de la tempête, serrant la main de Lira pour l'aider à franchir la saillie. « On approche du col des Nuées ! Les portes de la Citadelle sont juste derrière ! »
+Mais le *Codex d'Aethelgard* continuait de guider chacun de leurs pas. À mesure qu'ils approchaient de l'altitude du col, les balises vibratoires incrustées dans la pierre émettaient un bourdonnement chaleureux qui réchauffait leurs mains engourdies par le gel.
 
-Soudain, une volée de tirs électriques siffla au-dessus de leurs têtes, faisant éclater la roche en gerbes d'étincelles. L'Inquisiteur Thorne et ses derniers gardes d'élite avaient contourné la montagne par la face nord et leur coupaient la retraite.
+« Tenez bon, Lira ! » cria Kaelen au milieu du mugissement de la tempête de neige, tirant sur la corde de chanvre pour l'aider à franchir une saillie glissante. « Le col des Nuées est à moins de cinquante mètres ! Les Portes d'Ambre de la Citadelle sont juste derrière la gorge ! »
 
-Lira se plaqua contre la paroi, serrant le Codex contre sa poitrine. « Ils ne renonceront jamais », dit-elle entre ses dents. « Mais nous sommes trop près du but pour flancher maintenant ! »
+Soudain, une décharge électrique siffla au-dessus de leurs têtes, faisant éclater la pierre en une gerbe d'étincelles bleues et d'éclats acérés.
 
-Kaelen s'empara d'une grenade à vapeur de son sac et la dégoupilla avec les dents avant de la lancer dans le défilé où progressaient les soldats.
+L'Inquisiteur Thorne et ses quatre derniers gardes d'élite, grimpés par la face nord à l'aide de crampons pneumatiques, venaient de faire irruption au détour de la corniche, leur coupant définitivement la retraite. Thorne tenait sa carabine à choc épaulée, le visage tendu et défait par la fatigue et la résolution.
+
+Lira se plaqua contre la falaise basaltique, serrant le sac du Codex contre sa poitrine de toutes ses forces.
+
+« Ils sont prêts à tout détruire », dit-elle entre ses dents, le regard étincelant d'une fierté inébranlable. « Mais nous avons franchi la nuit et la suie : nous ne reculerons plus jamais d'un seul pas ! »
+
+Kaelen s'empara d'une grenade à surcharge de vapeur de sa ceinture d'outils, en arracha la goupille de laiton et la laissa rouler le long du défilé étroit où progressaient les soldats de la milice.

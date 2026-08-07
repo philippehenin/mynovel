@@ -1,13 +1,17 @@
 # Chapitre 18 : La Mémoire Ferromagnétique
 
-La onde acoustique émise par l'automate pulvérisa les gouvernails de direction des aéronefs de la milice. Vaisseaux en perdition, les patrouilleurs du Conseil durent effectuer un atterrissage forcé dans les marécages du val.
+L'onde acoustique infrasonore émise par l'automate du Fondateur frappa de plein fouet les gouvernails en cuivre des aéronefs de la milice. Les gyrostaturs de bord entrèrent en résonance destructrice : incapables de maintenir leur assiette dans l'air turbulent du val, les vaisseaux patrouilleurs du Conseil durent renoncer à l'attaque et effectuer un atterrissage de détresse dans les marécages fumants au fond de la vallée.
 
-Profitant de ce répit inespéré, Lira et Kaelen entamèrent l'ascension des Monts de Grès par le sentier des contrebandiers. Lira portait le noyau de mémoire ferromagnétique de l'automate, chargé des données de déverrouillage de la Citadelle.
+Profitant de ce répit inespéré et décisif, Lira et Kaelen entamèrent l'ascension finale des Monts de Grès par le sentier escarpé des contrebandiers.
 
-« La pression du réseau monte dans toute la région », remarqua Kaelen en observant les anciennes balises géothermiques du sentier qui s'éclairaient une à une d'un éclat vert.
+Dans sa pochette de cuir renforcé, Lira conservait le trésor le plus précieux de cette quête : le noyau de mémoire ferromagnétique de l'automate, une cartouche de bronze d'ambre contenant les coordonnées de résonance et les données de déverrouillage final de la Citadelle des Nuées.
 
-Les habitants des hameaux de montagne commençaient à sortir de leurs maisons, ébahis de voir les lanternes de la Première Ère s'allumer spontanément après des siècles de noirceur.
+« Regarde là-bas, Lira ! » s'exclama Kaelen en désignant le chemin rocqueux.
 
-« La rumeur se propage », dit Lira en montant les marches taillées dans le roc. « La Basse-Ville doit déjà être au courant que le réseau est en train de se réveiller. Le Conseil ne pourra plus étouffer la vérité bien longtemps. »
+À mesure qu'ils progressaient vers les hauteurs, les anciennes balises géothermiques en pierre et en laiton implantées tous les cent mètres le long du sentier s'éveillaient les unes après les autres. Alimentées par la poussée d'eau thermale libérée depuis le Nœud des Quatre Eaux, leurs colonnes de cristal de roche s'éclairaient d'un éclat vert et d'or doux et chaleureux.
 
-Au-dessus d'eux, les falaises d'ardoise se découpaient dans le ciel matinal, menant droit vers les sommets embrumés de la Citadelle des Nuées.
+Dans les hameaux de bûcherons et de carriers accrochés aux flancs de la montagne, les habitants sortaient sur le pas de leurs portes en bois, ébahis et émus aux larmes. Ils contemplaient les lanternes de la Première Ère se rallumer spontanément après trois siècles de noirceur et de froid.
+
+« La rumeur se propage comme une traînée de poudre », dit Lira, gravissant les marches de granite taillé d'un pas alerte. « La Basse-Ville doit déjà voir la lumière remonter le long de la vallée. Le Conseil du Silence aura beau déployer ses gardes et inventer des mensonges, ils ne pourront plus jamais éteindre l'espoir qui s'éveille. »
+
+Au-dessus d'eux, les falaises basaltiques se découpaient fièrement dans le ciel de midi, guidant leurs pas vers les sommets embrumés de la Citadelle.

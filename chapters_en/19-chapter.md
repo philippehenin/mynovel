@@ -1,13 +1,19 @@
 # Chapter 19: Climbing the Sandstone Peaks
 
-High-altitude winds howled across the Sandstone Peaks ridge, sweeping the narrow path clinging to the rock face. Lira and Kaelen moved carefully through the icy mist, tied together by a thick hemp rope.
+The icy ridge winds howled with incredible fury across the northern slope of the Sandstone Mountains, sweeping the narrow path clinging to the vertical cliff face. Lira and Kaelen moved step by step through a suffocatingly dense freezing fog, tied together by a thick tarred hemp rope and clinging to the stone.
 
-Every single step demanded total focus: beneath them, a fifteen-hundred-foot drop plunged down into the Shadowvale woods. But the Aethelgard Codex guided every move thanks to vibration beacons embedded in the rock every hundred yards.
+Every single step demanded absolute focus: beneath their soaked boots, a fifteen-hundred-foot drop plunged sheer down into the pine canopy of Shadowvale.
 
-« Hold on! » Kaelen yelled over the storm, squeezing Lira's hand to help her over the ledge. « We're close to the Cloud Pass! The Citadel gates are right behind it! »
+Yet the *Aethelgard Codex* continued to guide every stride. As they neared the pass elevation, vibration beacons embedded in the stone hummed with a warm vibration that thawed their gel-numbed hands.
 
-Suddenly, a volley of electric shots whistled over their heads, blasting sparks off the rock face. Inquisitor Thorne and his remaining elite guards had scaled the north face and cut off their path.
+« Hold on, Lira! » Kaelen yelled over the howling snowstorm, hauling on the hemp rope to help her over a slick ledge. « Cloud Pass is less than fifty yards away! The Citadel's Amber Gates are right beyond the gorge! »
 
-Lira pressed against the rock, hugging the Codex to her chest. « They're never giving up », she set her jaw. « But we're too close now to back down! »
+Suddenly, an electric discharge whistled over their heads, blasting rock into a shower of blue sparks and sharp shrapnel.
 
-Kaelen grabbed a steam grenade from his belt, pulled the pin with his teeth, and tossed it into the pass where the guards were advancing.
+Inquisitor Thorne and his four remaining elite guards, having scaled the north face with pneumatic climbing irons, burst around the corner of the ledge, cutting off their retreat for good. Thorne held his shock rifle raised, his face drawn and weathered by fatigue and resolve.
+
+Lira pressed against the basalt wall, hugging the Codex bag to her chest with all her strength.
+
+« They're ready to destroy everything », she set her jaw, eyes gleaming with unshakeable pride. « But we crossed the night and the soot: we will never take another step back! »
+
+Kaelen grabbed a steam overload grenade from his tool belt, yanked the brass pin, and let it roll down the narrow defile where the militia guards were advancing.

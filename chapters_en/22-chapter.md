@@ -1,13 +1,17 @@
 # Chapter 22: Echo of the Stars
 
-The geothermal wave spread in seconds throughout the region's entire underground grid. In both the High City and Lower Town, the big coal smokestacks shut down one by one, giving way to the clean, gentle heat of the Earth's core.
+The geothermal harmonic wave spread in seconds throughout Aethelgard's entire subterranean network.
 
-First Era amber lanterns lit up in every alley, every shop, and every home in Aethelgard. In the lower shacks, children stopped coughing, breathing clean, healing air at last.
+In the High City as in the depths of the Lower Town, massive brick smokestacks of coal plants shut down one after another, ceasing forever to belch their toxic soot. The reactivated Precursor boilers radiated a gentle, constant heat of absolute purity throughout the city, drawn directly from Earth's vibrating heart.
 
-Standing on the Observatory's upper balcony, Lira and Kaelen looked out over the reborn city. Their hands joined naturally, sealing a bond of respect and quiet warmth born through trials.
+First Era amber columns and lanterns lit up in green and gold radiance down every alleyway, clockmakers' shop, and household in Aethelgard. In the dark streets of the Lower Town, children stopped coughing, taking in purified, healing air with wonder. The suffocating reign of the Council of Silence had just climbed its final step before collapsing without bloodshed.
 
-« Look », Kaelen whispered softly. « The city is finally breathing. And so are we. »
+Standing on the outer balcony of the Cloud Observatory, six thousand feet high, Lira and Kaelen looked out over the reborn metropolis under the afternoon sun.
 
-The Aethelgard Codex now rested open on the Dome's central pedestal, free for all citizens to read the secrets of the Ancients. The library's whispers were no longer hidden in the dark, they had become the anthem of a free people.
+Their hands joined naturally, sealing an unbreakable bond of tenderness, respect, and freedom born amidst the trials of the dark. Thorne, at peace and freed from the ghost of his pain, was already working with Lower Town craftsmen to convert the old militia into guardians of the new grid of harmony.
 
-Under the restored crystal dome, the echo of the stars would never fade again. Aethelgard had found its soul, and a new era of light and peace had begun.
+« Look », Kaelen whispered softly, his brown eyes filled with boundless emotion as he squeezed Lira's fingers. « The city is finally breathing. And so are we. »
+
+The *Aethelgard Codex* now rested open at the center of the Crystal Dome, guarded by automatons and offered for free reading to every scholar, worker, and child of the city who came to learn the science of the Ancients. The library's whispers were no longer secret rumors hidden in the shadows of the aisles: they had become the triumphant, eternal anthem of a liberated people.
+
+Beneath the restored crystal vault, the echo of the stars would never fade again. Aethelgard had reclaimed its memory and its light, and a new era of harmony and hope had opened its wings over the world.

@@ -1,13 +1,17 @@
 # Chapitre 17 : L'Automate de la Tour
 
-La tour de garde en grès se dressait sur un éperon rocheux surplombant le chemin des crêtes. À son sommet, accroupi comme une gargouille d'acier et de bronze, l'automate du Fondateur attendait depuis trois siècles.
+La tour de garde en dalles de grès taillées se dressait comme un éperon rocheux solitaire au bord du précipice, surplombant le tracé étroit du chemin des crêtes. À son sommet découvert, accroupi dans une pose de vigie millénaire telle une gargouille monumentale d'acier bruni et de bronze d'ambre, l'automate du Fondateur attendait silencieusement depuis trois siècles.
 
-Kaelen inséra les cartes perforées trouvées dans la Maison de Grès dans le logement pectoral de la machine. Un cliquetis complexe retentit à l'intérieur du thorax métallique, suivi du bourdonnement grave d'un gyroscope en cours d'accélération.
+Kaelen grimpa l'échelle métallique intérieure de la tour et se hissa sur la plate-forme de combat.
 
-Les yeux de verre de l'automate s'illuminèrent d'une lueur dorée et chaleureuse. La grande créature mécanique de deux mètres de haut se redressa dans un grincement d'articulations parfaitement huilées par les réservoirs de secours.
+Ouvrant le logement pectoral en bronze de la machine, il y inséra avec des gestes chirurgicaux les cartes perforées en bronze inoxydable retrouvées dans le coffre d'Aldous. Un cliquetis complexe de pignons miniatures et d'engrenages en saphir retentit à l'intérieur du thorax métallique, suivi immédiatement du vrombissement grave et puissant d'un gyroscope en cours d'accélération rapide.
 
-Lira s'avança et présenta la bague du Fondateur gravée de ses armoiries. L'automate inclina gentiment sa tête métallique en signe d'allégeance et tourna son canon acoustique vers la vallée.
+Les grands yeux en verre taillé de la créature mécanique s'illuminèrent d'une lueur dorée, chaude et bienveillante.
 
-Au même moment, trois aéronefs du Conseil émergèrent des nuages en braquant leurs projecteurs jaunes sur la tour. L'Inquisiteur Thorne avait retrouvé leur trace, mais cette fois-ci, les fugitifs n'étaient plus sans défense.
+La colossale machine de deux mètres cinquante de haut se redressa dans un léger grincement d'articulations parfaitement conservées sous l'huile synthétique de ses réservoirs étanches. Lira s'avança calmement sur la plate-forme et présenta la chevalière de la famille Vance gravée de ses armoiries.
 
-L'automate lâcha un rugissement fréquentiel qui fit vibrer l'air et déstabilisa immédiatement la trajectoire du premier vaisseau ennemi.
+L'automate inclina gentiment sa tête de bronze en signe d'allégeance retrouvée, puis pivota son volumineux canon acoustique orientable vers la vallée embrumée.
+
+Au même instant, déchirant la nappe de nuages au-dessus des sapins, trois aéronefs d'attaque du Conseil du Silence émergèrent en formation de combat. Leurs puissants projecteurs à acétylène balayèrent la tour de leurs faisceaux jaunâtres. Thorne avait retrouvé leur trace, mais cette fois-ci, les deux fugitifs n'étaient plus sans défense.
+
+L'automate du Fondateur lâcha un rugissement fréquentiel d'une puissance colossale. La vague acoustique Infrasonore fit frissonner l'air de la vallée, créant une onde de choc lumineuse qui déstabilisa immédiatement la trajectoire de l'aéronef de tête de Thorne, le forçant à rompre la formation et à reprendre de l'altitude dans le brouillard.

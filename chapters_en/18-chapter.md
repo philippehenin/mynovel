@@ -1,13 +1,17 @@
-# Chapter 18: Ferromagnetic Memories
+# Chapter 18: The Ferromagnetic Memory
 
-The acoustic wave from the automaton shattered the steering rudders of the militia airships. With their ships spinning out of control, the Council patrol had to make an emergency crash landing in the valley marshes.
+The infrasonic acoustic wave emitted by the Founder's automaton shattered the copper directional rudders of the militia airships. With ships disabled, the Council patrol craft were forced to make emergency landings in the steaming marshes at the bottom of the valley.
 
-Taking advantage of the break, Lira and Kaelen started climbing the Sandstone Peaks via the smugglers' trail. Lira carried the automaton's ferromagnetic memory core, packed with the Citadel unlock codes.
+Seizing this unexpected and decisive respite, Lira and Kaelen began their final ascent up the Sandstone Mountains along the steep smugglers' trail.
 
-« Grid pressure is rising across the whole region », Kaelen noted, watching the old trail beacons light up green one by one.
+In her reinforced leather pouch, Lira held the most precious prize of their quest: the automaton's ferromagnetic memory core—an amber bronze cartridge containing the resonance coordinates and final unlocking data for the Cloud Citadel.
 
-Villagers from mountain hamlets stepped out of their homes, staring in awe as First Era lanterns lit up on their own after centuries of dark.
+« Look up ahead, Lira! » Kaelen called out, pointing along the rocky trail.
 
-« The word is spreading », Lira said, stepping up the stone stairs. « The Lower Town must know by now that the grid is waking up. The Council won't be able to hide the truth much longer. »
+As they climbed higher toward the peaks, ancient stone and brass geothermal beacons planted every hundred yards along the path lit up one by one. Powered by the surge of thermal water released from the Four Waters Hub, their rock crystal columns shone with a soft, warm green and gold radiance.
 
-Above them, the slate cliffs stood out against the morning sky, leading straight to the misty summits of the Cloud Citadel.
+In woodcutter and quarrymen hamlets clinging to the mountainsides, villagers stepped out onto their wooden porches, awestruck and moved to tears. They watched First Era lanterns reignite spontaneously after three centuries of darkness and cold.
+
+« The word is spreading like wildfire », Lira said, taking the cut granite steps with a brisk pace. « The Lower Town must already see the light rising along the valley. The Council of Silence can deploy all its guards and spin all its lies, but they will never extinguish the hope rising today. »
+
+Above them, basalt cliffs stood proud against the midday sky, guiding their steps toward the mist-wrapped peaks of the Citadel.

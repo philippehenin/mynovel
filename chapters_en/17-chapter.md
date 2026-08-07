@@ -1,13 +1,17 @@
 # Chapter 17: Automaton of the Tower
 
-The sandstone watchtower perched on a rocky spur overlooking the ridge path. At its top, crouched like a gargoyle of steel and bronze, the Founder's automaton had been waiting for three centuries.
+The watchtower of cut sandstone blocks reared up like a lonely rocky spur at the edge of the precipice, overlooking the narrow trail of the ridge path. At its open top, crouched in a posture of ancient vigilance like a monumental gargoyle of burnished steel and amber bronze, the Founder's automaton had been waiting silently for three centuries.
 
-Kaelen slotted the punch cards from the Manor into the machine's chest housing. A complex gear-click sounded inside the metal torso, followed by the low hum of a spinning gyroscope.
+Kaelen climbed the tower's inner iron ladder and pulled himself onto the combat platform.
 
-The automaton's glass eyes lit up with a warm, golden glow. The six-foot metal guardian stood tall with a creak of perfectly oiled joints from its emergency reservoirs.
+Opening the machine's bronze chest housing, he inserted the stainless bronze punch cards found in Aldous's chest with surgical precision. A complex click of miniature pinions and sapphire gears sounded inside the metal torso, followed instantly by the deep, powerful hum of a rapidly accelerating gyroscope.
 
-Lira stepped forward and showed the Founder's ring stamped with his crest. The metal creature bowed its head in allegiance and turned its acoustic cannon toward the valley.
+The large cut-glass eyes of the mechanical creature lit up with a warm, golden glow.
 
-Just then, three Council airships broke through the clouds, spotlighting the tower with yellow beams. Inquisitor Thorne had tracked them down, but this time, the fugitives weren't defenseless.
+The colossal eight-foot machine stood tall with a light creak of joints perfectly preserved under synthetic oil from its sealed reservoirs. Lira stepped calmly onto the platform and presented the Vance family signet ring stamped with her crest.
 
-The automaton let out a frequency roar that shook the air, instantly knocking the lead enemy ship off course.
+The automaton bowed its bronze head in renewed allegiance, then pivoted its bulky directional acoustic cannon toward the misty valley.
+
+At that exact moment, tearing through the cloud blanket above the fir trees, three Council of Silence attack airships emerged in battle formation. Their powerful acetylene spotlights swept the tower with yellow beams. Thorne had tracked them down, but this time, the two fugitives were no longer defenseless.
+
+The Founder's automaton let out a frequency roar of colossal power. The infrasonic acoustic wave made the valley air shiver, creating a luminous shockwave that instantly knocked Thorne's lead airship off course, forcing it to break formation and pull back up into the fog.

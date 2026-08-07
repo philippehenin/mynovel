@@ -1,11 +1,15 @@
 # Chapter 16: The Founder's Writings
 
-Sitting at the Sandstone Manor's study desk, Lira flipped through the personal journals of Aldous Vance, her own great-grandfather and Founder of the Grand Archives. His fine, sharp handwriting filled hundreds of pages.
+Seated at the solid oak study desk of the Sandstone Manor, illuminated by the golden light of an acetylene lantern found in Aldous's chest, Lira feverishly leafed through the personal journals of the Founder of the Grand Archives. His fine, tight, nervous handwriting filled hundreds of accordion-folded pages.
 
-« The Council fears Harmony », Aldous wrote on October 14th, 214. « They think if every citizen gets free energy from the earth's core, their power will collapse like a house of cards. That's why they sealed the dome. »
+« The Council is terrified of Harmony », Aldous Vance wrote on the fateful date of October 14th, 214. « They claim to protect the people from chaos, but the truth is far more mundane: if every citizen of Aethelgard gets free heat and light from the earth's core, the coal monopoly and the Council's apparatus of coercion will collapse like a house of cards. It is solely to preserve their tyrannical grip that they sealed the Cloud Citadel. »
 
-Kaelen walked up, holding a small gyroscopic compass found in the chest. « Your ancestor thought of everything, Lira. He left the exact frequencies to unlock the citadel without wrecking the dome. »
+Kaelen approached the desk carefully, examining a precision gyroscopic compass of amber bronze found alongside the journals.
 
-The logs also revealed an ancient defense automaton at the top of the valley watchtower, built to guard the path against despotic militia raids.
+« Your ancestor anticipated the Council's reaction, Lira », Kaelen said with deep admiration. « He didn't just hide the Codex: he left the exact frequency sequences to unlock the citadel without shattering the Observatory's crystal domes. »
 
-« We need to reactivate that automaton », Lira said, clenching her fists. « Without it, Thorne's airships will blow us off the cliff the moment we start climbing. »
+Continuing through the yellowed pages, Lira uncovered a chapter dedicated to the defenses of Cloud Pass.
+
+Aldous described the secret construction of a defense automaton made of steel and bronze alloy, concealed at the top of the plateau's watchtower. This automaton had been built specifically to guard the ridge path against any invasion attempt by the airborne troops of the High City's tyrants.
+
+« We need to reactivate that defense automaton », Lira declared, clenching her fists with unshakeable resolve. « Without its acoustic protection, we'll be swept away by shockfire from Thorne's attack airships the moment we begin scaling the Sandstone Peaks. »
