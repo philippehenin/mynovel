@@ -1,7 +1,8 @@
-# Protagonist: Lira Vance
+# Protagoniste : Lira Vance
 
-- **Role**: High Archive Scholar & Relic Investigator
-- **Age**: 24
-- **Personality**: Curious, analytical, resolute, fiercely loyal
-- **Motivation**: To uncover the truth behind forgotten histories and preserve lost knowledge
-- **Key Artifact**: The Amber Crystal Pendant
+- **Rôle** : Archiviste des Grandes Archives & Chercheuse en Reliques Anciennes
+- **Âge** : 24 ans
+- **Personnalité** : Curieuse, analytique, résolue, d'une loyauté inébranlable
+- **Motivation** : Dévoiler la vérité sur les époques oubliées et préserver le savoir contre l'obscurantisme
+- **Objet Clé** : Le Pendentif de Cristal d'Ambre Résonant
+

@@ -1,24 +1,25 @@
-# Story Outline & Narrative Structure
+# Plan et Structure Narrative du Roman
 
-## Narrative Arc
+## Arc Narratif
 
-### Act I: The Awakening (Chapters 1–5)
-- **Status Quo**: Introduction to the protagonist's normal world and daily struggles.
-- **Inciting Incident**: The discovery of an ancient artifact hidden deep within the forgotten archives.
-- **Call to Adventure**: Deciphering the first clue leads to a revelation that cannot be ignored.
+### Acte I : L'Éveil de l'Archive (Chapitres 1 à 5)
+- **Statu Quo** : Présentation du quotidien de Lira au sein des Grandes Archives d'Aethelgard.
+- **Élément Déclencheur** : Découverte d'un manuscrit antique enluminé d'encres réactives et d'harmoniques de résonance.
+- **Appel à l'Aventure** : Déchiffrer les premières glyphes révèle une carte menant aux frontières oubliées du continent.
 
-### Act II: The Journey & Conflict (Chapters 6–15)
-- **Rising Action**: Crossing the threshold into unfamiliar territories.
-- **Midpoint**: A major setback reveals that the antagonist's reach is greater than anticipated.
-- **Deepening Stakes**: Allies band together, uncovering secrets about the origin of the realm.
+### Acte II : La Traversée & Les Conflits (Chapitres 6 à 15)
+- **Péripéties** : Franchissement des portes de la cité et exploration de terres inexplorées.
+- **Point Médian** : Une révélation majeure démontre que l'Ordre du Silence de Malakor cherche à sceller définitivement les technologies des Anciens.
+- **Enjeux Accrus** : Formation d'une alliance clandestine et découverte de vestiges stellaires enfouis.
 
-### Act III: Resolution (Chapters 16–20)
-- **Climax**: Confrontation at the central citadel.
-- **Resolution**: Restoration of balance and the beginning of a new era.
+### Acte III : La Résolution (Chapitres 16 à 20)
+- **Climax** : Confrontation épique au sommet de la Citadelle Céleste.
+- **Dénouement** : Restauration de l'équilibre entre le savoir antique et le renouveau technologique.
 
 ---
 
-## Key Themes
-- Legacy and remembrance
-- Courage in the face of uncertainty
-- The interplay between ancient knowledge and future technology
+## Thèmes Majeurs
+- Légué des civilisations disparues et préservation de la mémoire
+- Le courage face à l'inconnu et à l'obscurantisme
+- L'alliance féconde entre le merveilleux scientifique et l'éthique humaine
+

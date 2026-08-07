@@ -1,6 +1,7 @@
-# Antagonist: High Chancellor Malakor
+# Antagoniste : Le Grand Chancelier Malakor
 
-- **Role**: Head of the Order of Silence
-- **Personality**: Calculating, authoritarian, strategic
-- **Motivation**: To control ancient magic by concealing historical truths from the populace
-- **Conflict**: Seeks to seize the codex before Lira deciphers its final secrets
+- **Rôle** : Maître Supérieur de l'Ordre du Silence
+- **Personnalité** : Calculateur, autoritaire, stratège hors pair
+- **Motivation** : Réprimer le savoir antique et sceller la résonance des reliques pour maintenir le contrôle absolu sur les cités
+- **Conflit** : Cherche à s'emparer du Codex de Lira avant qu'elle ne déchiffre le réseau des portes stellaires
+

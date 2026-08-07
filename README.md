@@ -1,56 +1,57 @@
-# My Novel
+# Mon Roman
 
-[![Build Status](https://img.shields.io/badge/manuscript-in__progress-blue)](#)
-[![Word Count](https://img.shields.io/badge/word__count-tracking-green)](#)
+[![Statut du Manuscrit](https://img.shields.io/badge/manuscrit-en__cours-blue)](#)
+[![Nombre de Mots](https://img.shields.io/badge/mots-suivi__actif-green)](#)
 
-Welcome to the **My Novel** repository. This project contains the manuscript, outline, character sheets, worldbuilding documentation, and build scripts for writing and exporting the novel.
+Bienvenue dans le dépôt **Mon Roman**. Ce projet contient le manuscrit, le plan détaillé, les fiches de personnages, la documentation de création d'univers (*worldbuilding*) et les scripts d'exportation.
 
 ---
 
 ## 📖 Synopsis
 
-In a world standing on the brink of profound transformation, an unexpected discovery uncovers ancient secrets long forgotten. Follow the journey of unexpected heroes who must navigate peril, mystery, and destiny.
+Dans un monde au bord d'une transformation profonde, une découverte inattendue dévoile des secrets antiques oubliés depuis des siècles. Suivez le périple de héros malgré eux qui doivent naviguer entre périls, mystères et destinée face à l'Ordre du Silence.
 
 ---
 
-## 📁 Repository Structure
+## 📁 Structure du Dépôt
 
 ```text
 mynovel/
-├── README.md                 # Project overview and instructions
-├── OUTLINE.md                # Story structure, plot arc, and act details
-├── chapters/                 # Individual chapter drafts in Markdown
+├── README.md                 # Vue d'ensemble du projet et instructions
+├── OUTLINE.md                # Structure du récit, arcs narratifs et actes
+├── chapters/                 # Chapitres rédigés en Markdown
 │   ├── 01-introduction.md
 │   ├── 02-the-awakening.md
 │   └── 03-the-crossing.md
-├── characters/               # Character profiles and character arcs
+├── characters/               # Fiches et arcs de développement des personnages
 │   ├── protagonist.md
 │   └── antagonist.md
-├── worldbuilding/            # Setting details, lore, and universe notes
+├── worldbuilding/            # Détails du monde, lore et règles de l'univers
 │   └── setting.md
-├── dist/                     # Compiled manuscript outputs
-└── build.sh                  # Manuscript compilation and word count tool
+├── dist/                     # Manuscrit compilé pour exportation
+└── build.sh                  # Script d'assemblage du manuscrit et comptage de mots
 ```
 
 ---
 
-## 🛠️ Usage & Build Instructions
+## 🛠️ Instructions de Compilation
 
-### Compile Manuscript & Word Count
-Run the provided build script to aggregate all chapters into a single file and generate word count stats:
+### Compiler le Manuscrit & Compter les Mots
+Exécutez le script d'assemblage pour regrouper tous les chapitres dans un fichier unique et obtenir les statistiques :
 
 ```bash
 chmod +x build.sh
 ./build.sh
 ```
 
-The compiled draft will be output to `dist/manuscript.md`.
+Le manuscrit complet sera généré dans `dist/manuscript.md`.
 
 ---
 
-## 📝 Writing Workflow
+## 📝 Flux de Travail
 
-- Each chapter is stored cleanly in `chapters/` with numerical prefixes.
-- Character notes belong in `characters/`.
-- Lore and universe details are maintained in `worldbuilding/`.
-- All changes are version-controlled with Git.
+- Chaque chapitre est stocké dans `chapters/` avec un préfixe numérique.
+- Les profils des personnages résident dans `characters/`.
+- Les détails de l'univers sont maintenus dans `worldbuilding/`.
+- L'ensemble est suivi et versionné avec Git.
+
